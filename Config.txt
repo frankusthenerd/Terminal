@@ -1,0 +1,4 @@
+width=600
+height=400
+letter-w=16
+letter-h=16
